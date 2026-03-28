@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Zadania React Native",
+    "slug": "zadania-react-native",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
